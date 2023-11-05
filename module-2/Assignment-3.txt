@@ -1,0 +1,35 @@
+Solana Smart Contract Development
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to give students hands-on experience in creating and deploying Solana smart contracts using the Solana SDK. Students will follow a step-by-step guide to create a simple smart contract, such as a token contract or a basic decentralized application (dApp). They will then submit their code along with documentation explaining how the smart contract works.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana Smart Contract Development
+
+In this assignment, you will practice creating and deploying Solana smart contracts using the Solana SDK. Smart contracts are self-executing contracts with the terms of the agreement directly written into code. Solana's architecture and programming language, Rust, make it a powerful platform for developing smart contracts.
+
+Assignment Requirements:
+
+Smart Contract Development (70 points):
+
+Follow the provided step-by-step guide or tutorial to create a simple Solana smart contract.
+You can choose to create a token contract, a basic decentralized application (dApp), or any other simple contract of your choice.
+Ensure that your code is well-structured and follows best practices for Solana smart contract development.
+Documentation (20 points):
+
+Provide clear and comprehensive documentation explaining how your smart contract works.
+Describe the purpose of the contract, its key functions, and how it interacts with the Solana blockchain.
+Include any important details about the contract's data structures and state management.
+Testing and Deployment (10 points):
+
+Test your smart contract to ensure it functions as intended.
+Deploy your smart contract on a Solana testnet (e.g., Devnet) and provide the deployment details (e.g., contract address).
+Submission Guidelines:
+
+Submit your Solana smart contract code as a single Rust code file.
+Include documentation in a separate text file or document (PDF, Markdown) along with your code.
+Mention any external libraries or dependencies used in your project.

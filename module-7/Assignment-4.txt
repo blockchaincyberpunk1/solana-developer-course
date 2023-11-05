@@ -1,0 +1,41 @@
+Solana Tutorial Creation
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to deepen students' understanding of Solana and encourage knowledge sharing within the Solana community. Students will choose a Solana-related topic they are passionate about and create a comprehensive tutorial or guide. By publishing their tutorials, students contribute to the community's collective knowledge and gain valuable experience in explaining complex topics.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana Tutorial Creation
+
+In this assignment, you will have the opportunity to deepen your understanding of a Solana-related topic while contributing to the Solana developer community's knowledge base. You will create a detailed tutorial or guide on a specific Solana feature, smart contract development, or a best practice.
+
+Assignment Requirements:
+
+Topic Selection (5 points):
+
+Choose a Solana-related topic that you are passionate about and believe would be valuable to others in the Solana community. Topics could include, but are not limited to, smart contract development, Solana token creation, Solana ecosystem tools, or best practices.
+Tutorial Creation (70 points):
+
+Create a comprehensive tutorial or guide on your chosen topic. Your tutorial should be well-structured and easy to follow.
+Include step-by-step instructions, code examples, and clear explanations. Use images, diagrams, or code snippets where necessary to enhance understanding.
+Ensure that your tutorial addresses common challenges or questions related to the topic.
+Publication and Sharing (15 points):
+
+Publish your tutorial on a platform of your choice. Common platforms include Medium, GitHub, personal blogs, or Solana community forums.
+Share your tutorial with the Solana community through appropriate channels, such as Solana Discord, Reddit, or other developer forums.
+Contribution to Community (10 points):
+
+Explain why you chose the topic and how you believe it will benefit the Solana developer community.
+Encourage community engagement by inviting readers to ask questions or provide feedback.
+Submission Guidelines:
+
+Submit the link to your published tutorial along with evidence of its publication (e.g., a link to the published post or a screenshot).
+Grading Rubric:
+
+Topic Selection (5 points)
+Tutorial Creation (70 points)
+Publication and Sharing (15 points)
+Contribution to Community (10 points)

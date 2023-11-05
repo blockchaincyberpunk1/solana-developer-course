@@ -1,0 +1,48 @@
+Solana Community Engagement
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to actively engage with the Solana community by participating in discussions, asking questions, and contributing to the community's knowledge sharing. Through this assignment, students will become active members of the Solana ecosystem, fostering a sense of community and learning from real-world interactions.
+
+Instructions for Students:
+
+Assignment Task:
+
+Active Participation in Solana Community
+
+In this assignment, you will be tasked with actively engaging with the Solana community through various online channels, including the official Solana community forums and social media platforms. Your goal is to become an active participant in discussions, ask questions, share insights, and contribute to the collective knowledge of the Solana ecosystem.
+
+Assignment Requirements:
+
+Account Creation (5 points):
+
+Create accounts or profiles on the following Solana community platforms:
+Official Solana Community Forums
+Solana Discord Server
+Solana Reddit Community
+Active Engagement (60 points):
+
+Over the course of this assignment, actively engage in discussions and interactions on the Solana community forums, Discord server, and Reddit community.
+Contribute by asking questions, providing answers to others' queries, sharing your learning experiences, and discussing Solana-related topics.
+Participate in at least three different discussions or threads on each of the platforms mentioned above.
+Ensure your interactions are respectful, constructive, and align with the community's guidelines and rules.
+Summary (25 points):
+
+Submit a summary document that includes:
+A brief description of the Solana community platforms you engaged with.
+Links to the discussions or threads you participated in.
+A summary of your contributions, questions asked, answers provided, or insights shared in each discussion.
+Reflect on your experience and any valuable knowledge or insights you gained through your interactions.
+Reflection (10 points):
+
+Reflect on the importance of community engagement in blockchain and open-source ecosystems.
+Share your thoughts on the benefits of being an active member of the Solana community and how it contributes to your learning and networking.
+Submission Guidelines:
+
+Submit a document (e.g., PDF) that includes your summary of community engagement and reflections.
+Grading Rubric:
+
+Account Creation (5 points)
+Active Engagement (60 points)
+Summary (25 points)
+Reflection (10 points)

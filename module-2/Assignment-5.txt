@@ -1,0 +1,41 @@
+Solana dApp Development
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to challenge students to build a more complex decentralized application (dApp) on Solana. This assignment encourages students to apply their knowledge and skills acquired throughout the course to create a fully functioning dApp with features like user authentication, token management, or data storage.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana dApp Development
+
+In this final assignment, you will have the opportunity to showcase your skills by developing a more complex decentralized application (dApp) on the Solana blockchain. The dApp you create should demonstrate your understanding of Solana's architecture, smart contracts, and client-side development. You can choose the purpose and functionality of your dApp, but it should incorporate some of the key features often found in real-world dApps, such as user authentication, token management, or data storage.
+
+Assignment Requirements:
+
+dApp Development (80 points):
+
+Choose the purpose and functionality of your Solana-based dApp.
+Plan, design, and implement your dApp using Solana smart contracts and any necessary client-side technologies.
+Ensure that your dApp is well-structured, follows best practices, and functions as intended.
+Implement at least one key feature that showcases your understanding of Solana's capabilities. This could be user authentication, token creation and management, data storage, or any other feature that aligns with your dApp's purpose.
+Documentation (15 points):
+
+Provide comprehensive documentation explaining your dApp's purpose, key features, and functionality.
+Include instructions on how to use your dApp, especially if it has a user interface.
+Document the architecture of your dApp, highlighting the role of Solana smart contracts and how they interact with the client-side components.
+Testing and Demonstration (5 points):
+
+Thoroughly test your dApp to ensure that it works correctly.
+Prepare a brief demonstration (e.g., a video or screenshots) showing how users can interact with your dApp and utilize its key features.
+Submission Guidelines:
+
+Submit your dApp's code as a package or repository link.
+Include documentation in a separate text file or document (PDF, Markdown) along with your code.
+Mention any external libraries or dependencies used in your dApp.
+Grading Rubric:
+
+dApp Development (80 points)
+Documentation (15 points)
+Testing and Demonstration (5 points)

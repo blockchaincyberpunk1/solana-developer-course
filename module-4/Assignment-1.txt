@@ -1,0 +1,41 @@
+Solana Architecture Analysis
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with an in-depth understanding of Solana's architecture, focusing on its unique features like the Proof-of-History (PoH) consensus mechanism, transaction processing, and scalability techniques. Students will research and analyze these components to grasp how they contribute to Solana's impressive performance.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana Architecture Analysis
+
+In this assignment, you will explore and analyze the architecture of the Solana blockchain network. Solana is known for its innovative features, including the Proof-of-History (PoH) consensus mechanism, which sets it apart from other blockchain platforms. By understanding these components, you will gain insights into how Solana achieves its remarkable scalability and performance.
+
+Assignment Requirements:
+
+Research (40 points):
+
+Conduct thorough research on Solana's architecture, with a focus on the following key components:
+Proof-of-History (PoH): Explain what PoH is and how it functions as part of Solana's consensus mechanism.
+Transaction Processing: Describe how Solana handles transactions and achieves high throughput.
+Scalability Techniques: Explore the techniques used by Solana to maintain performance as the network scales.
+Presentation or Document (40 points):
+
+Create a presentation (e.g., slides) or a document that comprehensively explains Solana's architecture.
+Your presentation or document should be clear, organized, and well-structured.
+Use diagrams, charts, or illustrations to help visualize complex concepts.
+Real-World Applications (20 points):
+
+Discuss real-world applications and use cases that benefit from Solana's architecture.
+Explain how Solana's unique features make it suitable for these applications.
+Submission Guidelines:
+
+Submit your presentation or document in a format that is easily accessible and viewable.
+Ensure that your research is properly cited if you reference external sources.
+Include visuals, diagrams, or charts where applicable to aid in understanding.
+Grading Rubric:
+
+Research (40 points)
+Presentation or Document (40 points)
+Real-World Applications (20 points)

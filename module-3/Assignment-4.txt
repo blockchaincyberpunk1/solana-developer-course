@@ -1,0 +1,46 @@
+Building a Simple Solana dApp
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in designing and developing a complete decentralized application (dApp) using React.js and connecting it to the Solana blockchain. This assignment will reinforce their knowledge and skills in both front-end development and blockchain integration.
+
+Instructions for Students:
+
+Assignment Task:
+
+Building a Simple Solana dApp
+
+In this assignment, you will have the opportunity to create a functional decentralized application (dApp) from start to finish. You will design and build a simple dApp using React.js and connect it to the Solana blockchain. The dApp you create should serve a specific purpose, such as displaying wallet balances, enabling token transfers, or interacting with Solana smart contracts.
+
+Assignment Requirements:
+
+dApp Functionality (40 points):
+
+Design and implement a functional dApp with a clear and specific purpose.
+Ensure that the dApp performs its intended functions effectively and accurately.
+Possible functionalities include displaying wallet balances, allowing users to send tokens, or interacting with Solana smart contracts.
+User Experience (30 points):
+
+Create a user-friendly and visually appealing interface for your dApp using React.js.
+Ensure that users can easily navigate and understand how to use your dApp.
+Implement responsive design principles to ensure compatibility with different devices and screen sizes.
+Solana Integration (20 points):
+
+Connect your dApp to the Solana blockchain using Solana JavaScript libraries (e.g., Solana Web3.js).
+Utilize the Solana network for relevant tasks within your dApp.
+Ensure that Solana transactions and interactions are well-implemented.
+Code Quality and Documentation (10 points):
+
+Write clean and well-documented code, following best practices.
+Include comments or explanations within your code to clarify how your dApp interacts with the Solana blockchain.
+Submission Guidelines:
+
+Submit your complete React-based dApp code, including all necessary files.
+Provide a brief but comprehensive description of your dApp's functionality.
+Include any necessary documentation or comments to help reviewers understand your code and how it connects to Solana.
+Grading Rubric:
+
+dApp Functionality (40 points)
+User Experience (30 points)
+Solana Integration (20 points)
+Code Quality and Documentation (10 points)

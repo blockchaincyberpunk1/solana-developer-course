@@ -1,0 +1,46 @@
+Project Documentation
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to underscore the significance of comprehensive project documentation in software development. By completing this assignment, students will learn how to create detailed documentation for their Solana-based decentralized application (dApp) project.
+
+Instructions for Students:
+
+Assignment Task:
+
+Project Documentation
+
+In this assignment, you will be responsible for creating thorough documentation for the decentralized application (dApp) project that you developed in Assignment 1. The documentation should serve as a valuable resource for developers, users, and future maintainers of your project. This assignment aims to help you understand the importance of clear and organized project documentation.
+
+Assignment Requirements:
+
+Installation Guide (20 points):
+
+Provide step-by-step installation instructions for setting up your dApp project environment. Include any prerequisites, such as software dependencies or configuration settings.
+Ensure that installation instructions are easy to follow, even for individuals with limited prior knowledge of your project.
+Usage Guide (20 points):
+
+Create a usage guide that explains how to use your dApp. Include detailed instructions for common user interactions, such as creating accounts, making transactions, and accessing features.
+Include screenshots or examples to illustrate key points in your usage guide.
+API Documentation (if applicable) (15 points):
+
+If your dApp includes an API or exposes endpoints, provide comprehensive API documentation. Include details on available endpoints, request and response formats, and authentication (if required).
+Explain how external developers can integrate with your API.
+Design Choices and Architecture (15 points):
+
+Discuss the key design choices you made during the development of your dApp. Explain why you chose certain technologies, frameworks, or architectural patterns.
+Provide an overview of your dApp's architecture, highlighting its components and how they interact.
+Additional Resources (10 points):
+
+If your project includes external dependencies, libraries, or tools, list them and provide links to relevant resources for further exploration.
+Include any acknowledgments or credits for third-party assets or code used in your project.
+Submission Guidelines:
+
+Submit the complete project documentation alongside your project code. You may organize your documentation as a separate document (e.g., PDF or Markdown) or as part of a well-structured README file within your project repository.
+Grading Rubric:
+
+Installation Guide (20 points)
+Usage Guide (20 points)
+API Documentation (if applicable) (15 points)
+Design Choices and Architecture (15 points)
+Additional Resources (10 points)

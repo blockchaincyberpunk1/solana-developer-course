@@ -1,0 +1,42 @@
+Connecting Front-End to Solana
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students how to interact with the Solana blockchain from a React-based front-end. Students will learn how to use Solana JavaScript libraries to connect their dApps to the Solana network, enabling them to retrieve and display blockchain data.
+
+Instructions for Students:
+
+Assignment Task:
+
+Connecting Front-End to Solana
+
+In this assignment, you will build on your React.js knowledge from the previous assignment to create a decentralized application (dApp) that interacts with the Solana blockchain. You will use Solana JavaScript libraries, such as Solana Web3.js, to connect your React-based front-end to the Solana blockchain network.
+
+Assignment Requirements:
+
+Solana Connection (40 points):
+
+Follow the provided tutorial or guide on connecting a React-based front-end to the Solana blockchain using Solana JavaScript libraries.
+Set up a connection to the Solana network, including specifying the network's endpoint.
+Blockchain Data Retrieval (30 points):
+
+Retrieve and display relevant information from the Solana blockchain. This could include fetching and displaying token balances, transaction history, or any other data of your choice.
+Ensure that the data is displayed clearly and intuitively within your dApp's user interface.
+User Interaction (20 points):
+
+Implement user interactions that trigger actions on the Solana blockchain. For example, allow users to initiate transactions or perform other blockchain operations.
+Ensure that these interactions are responsive and provide feedback to the user.
+Code Quality and Documentation (10 points):
+
+Write clean and well-documented code.
+Include comments or explanations within your code to clarify how it interacts with the Solana blockchain.
+Submission Guidelines:
+
+Submit your React-based dApp code, including all necessary files.
+Provide documentation or comments that explain how your dApp connects to the Solana blockchain and how users can interact with it.
+Grading Rubric:
+
+Solana Connection (40 points)
+Blockchain Data Retrieval (30 points)
+User Interaction (20 points)
+Code Quality and Documentation (10 points)

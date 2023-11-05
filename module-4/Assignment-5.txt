@@ -1,0 +1,43 @@
+Advanced Solana Smart Contract
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to challenge students to apply advanced Solana concepts and optimization techniques to create a complex smart contract. By optimizing the contract for gas efficiency, scalability, and performance, students will demonstrate their proficiency in Solana development.
+
+Instructions for Students:
+
+Assignment Task:
+
+Advanced Solana Smart Contract
+
+In this assignment, you will have the opportunity to showcase your proficiency in Solana smart contract development by creating an advanced smart contract. This contract should perform complex operations and leverage advanced Solana-specific features for optimization.
+
+Assignment Requirements:
+
+Develop an Advanced Solana Smart Contract (40 points):
+
+Create an advanced Solana smart contract that performs complex operations.
+The contract should demonstrate your understanding of Solana-specific features and optimization techniques.
+Ensure that the contract is well-documented and includes comments explaining its functionality.
+Optimize for Gas Efficiency (20 points):
+
+Optimize the smart contract to minimize gas fees while maintaining its intended functionality.
+Implement strategies to reduce the gas costs associated with executing the contract.
+Scalability and Performance (20 points):
+
+Design the smart contract with scalability and performance in mind.
+Consider how the contract can efficiently handle a growing number of users and transactions.
+Documentation (20 points):
+
+Create detailed documentation that explains the advanced features and optimizations implemented in the smart contract.
+Describe the strategies you used to achieve gas efficiency, scalability, and performance.
+Submission Guidelines:
+
+Submit the code for the advanced Solana smart contract.
+Submit the documentation in a format that is easily accessible and viewable.
+Grading Rubric:
+
+Development of Advanced Smart Contract (40 points)
+Optimization for Gas Efficiency (20 points)
+Scalability and Performance (20 points)
+Documentation (20 points)

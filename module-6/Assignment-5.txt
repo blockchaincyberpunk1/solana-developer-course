@@ -1,0 +1,49 @@
+Peer Code Review
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to refine students' code review and collaboration skills. By participating in peer code reviews, students will gain valuable experience in assessing code quality, providing constructive feedback, and enhancing their understanding of Solana-based decentralized applications (dApps).
+
+Instructions for Students:
+
+Assignment Task:
+
+Peer Code Review
+
+In this assignment, you will have the opportunity to engage in peer code reviews. You will be paired with a fellow student, and each pair will be assigned a decentralized application (dApp) project that was created by another student group in Assignment 1. The purpose of this assignment is to evaluate and provide feedback on the codebase of a different Solana-based dApp project.
+
+Assignment Requirements:
+
+Assignment Partner (5 points):
+
+Your instructor will assign you a partner from your class.
+Coordinate with your partner to exchange project details and establish communication for the review process.
+Code Review (50 points):
+
+Obtain access to the assigned dApp project's codebase, which includes smart contracts, front-end code (if applicable), and any relevant documentation.
+Perform a comprehensive code review of the provided codebase. Pay attention to the following aspects:
+Code quality: Assess the readability, maintainability, and organization of the code.
+Best practices: Identify adherence to Solana development best practices and coding standards.
+Functionality: Verify that the dApp's features and functionality work as expected.
+Security: Identify potential security vulnerabilities or risks.
+Provide constructive feedback to the creators of the project. Suggest improvements, point out areas that need attention, and praise well-executed aspects.
+Documentation Review (20 points):
+
+Review any documentation provided by the creators, such as installation guides, usage guides, and API documentation.
+Assess the clarity and completeness of the documentation.
+Suggest improvements or clarifications where necessary.
+Report (25 points):
+
+Collaborate with your partner to create a joint report summarizing your code and documentation reviews.
+Include a summary of the key findings from your code review, highlighting areas for improvement and any positive aspects you noticed.
+If applicable, discuss the clarity and effectiveness of the project's documentation.
+Offer suggestions for enhancements and share insights gained from reviewing the project.
+Submission Guidelines:
+
+Submit a joint report with your partner that includes your code and documentation review findings. You may format the report as a document (e.g., PDF) or use a collaborative platform (e.g., Google Docs).
+Grading Rubric:
+
+Assignment Partner (5 points)
+Code Review (50 points)
+Documentation Review (20 points)
+Report (25 points)

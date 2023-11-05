@@ -1,0 +1,41 @@
+Security Best Practices for Blockchain Applications
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to help students understand and implement security best practices for blockchain applications. By researching and mitigating common vulnerabilities, students will learn how to create secure smart contracts on the Solana blockchain.
+
+Instructions for Students:
+
+Assignment Task:
+
+Security Best Practices for Solana Smart Contracts
+
+In this assignment, you will delve into the world of security best practices for blockchain applications, specifically targeting vulnerabilities that can affect Solana smart contracts. You will research common vulnerabilities and then apply best practices to refactor a vulnerable smart contract to make it secure.
+
+Assignment Requirements:
+
+Research Security Vulnerabilities (20 points):
+
+Research and identify common security vulnerabilities that can affect Solana smart contracts.
+Examples of vulnerabilities include reentrancy, front-running, and integer overflow/underflow.
+Create a document that explains each vulnerability, how it can be exploited, and the potential impact on smart contracts.
+Best Practices Documentation (30 points):
+
+Based on your research, develop a comprehensive document outlining best practices for mitigating the identified vulnerabilities.
+For each vulnerability, provide guidance on how developers can prevent or mitigate it by following best practices.
+Include code examples and explanations to illustrate the best practices.
+Refactor a Vulnerable Smart Contract (50 points):
+
+We will provide you with a vulnerable Solana smart contract.
+Refactor the smart contract code to incorporate the best practices you documented.
+Ensure that the refactored contract is secure and less susceptible to the identified vulnerabilities.
+Submission Guidelines:
+
+Submit the research document outlining common security vulnerabilities.
+Submit the best practices documentation.
+Submit the refactored Solana smart contract.
+Grading Rubric:
+
+Research on Security Vulnerabilities (20 points)
+Best Practices Documentation (30 points)
+Successful Refactoring of Vulnerable Smart Contract (50 points)

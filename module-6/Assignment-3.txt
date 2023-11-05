@@ -1,0 +1,45 @@
+Smart Contract Integration
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in integrating existing Solana smart contracts into a real-world decentralized application (dApp). By completing this assignment, students will gain practical skills in working with Solana contracts and enhancing their integration abilities.
+
+Instructions for Students:
+
+Assignment Task:
+
+Smart Contract Integration
+
+In this assignment, you will be given a set of Solana smart contracts and a description of a decentralized application (dApp) project that requires blockchain integration. Your task is to modify and integrate the provided contracts into the dApp, ensuring that they interact correctly and fulfill the project's requirements. This assignment aims to give you practical experience in integrating Solana smart contracts into a real-world application.
+
+Assignment Requirements:
+
+Understanding of Provided Contracts (15 points):
+
+Review and understand the provided Solana smart contracts thoroughly. Ensure that you are aware of their functionality and any specific requirements for integration.
+Integration into dApp (40 points):
+
+Modify the dApp project code to incorporate the provided Solana smart contracts. Ensure that the contracts are correctly integrated, and their functions are accessible from the dApp's user interface.
+Implement any necessary front-end components for users to interact with the smart contracts.
+Functionality (20 points):
+
+Verify that the integrated smart contracts perform as expected within the dApp.
+Test the functionality of the dApp, including interactions with the integrated contracts.
+Testing and Debugging (15 points):
+
+Thoroughly test the integrated dApp and smart contracts, identifying and resolving any issues or bugs that may arise during integration.
+Provide documentation of the testing process and any debugging efforts.
+Documentation (10 points):
+
+Submit a report documenting the integration process. Describe the steps you took to integrate the smart contracts into the dApp, any challenges you encountered, and how you addressed them.
+Submission Guidelines:
+
+Submit the integrated dApp code, including the modified front-end and any changes made to the provided Solana smart contracts.
+Include a report documenting the integration process and testing efforts.
+Grading Rubric:
+
+Understanding of Provided Contracts (15 points)
+Integration into dApp (40 points)
+Functionality (20 points)
+Testing and Debugging (15 points)
+Documentation (10 points)

@@ -1,0 +1,45 @@
+Rust Programming Basics
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to ensure that students have a solid grasp of Rust programming fundamentals. Students will complete a series of coding exercises that cover Rust syntax, data types, control structures, functions, and error handling. This assignment is designed to help students become comfortable with Rust programming.
+
+Instructions for Students:
+
+Assignment Task:
+
+Rust Programming Basics
+
+In this assignment, you will be working on a series of coding exercises to strengthen your understanding of Rust programming fundamentals. These exercises cover a range of topics, including Rust syntax, data types, control structures, functions, and error handling.
+
+Assignment Requirements:
+
+Coding Exercises (70 points):
+
+Complete the following coding exercises in Rust. Each exercise is worth a certain number of points based on its complexity.
+
+Ensure your code is well-structured, follows Rust best practices, and is thoroughly commented to explain the logic.
+
+Exercise 1 (10 points): Write a Rust program that prints "Hello, World!" to the console.
+
+Exercise 2 (10 points): Create a Rust function that takes two integers as arguments and returns their sum.
+
+Exercise 3 (15 points): Write a Rust program that reads a user's input (integer) from the console and calculates its factorial.
+
+Exercise 4 (15 points): Implement a Rust function that checks if a given number is prime.
+
+Exercise 5 (20 points): Create a Rust program that reads a list of integers from the console, calculates their average, and displays it.
+
+Error Handling (20 points):
+
+Ensure that your code includes error handling mechanisms, such as checking for invalid user input or handling potential runtime errors gracefully.
+Submission Guidelines:
+
+Submit your solutions as a single Rust code file.
+Make sure your code is well-documented with comments to explain your logic.
+Include a brief explanation of how you tested your code and any challenges you encountered during the exercises.
+Grading Rubric:
+
+Completion of Coding Exercises (70 points)
+Error Handling (20 points)
+Code Structure and Documentation (10 points)

@@ -1,0 +1,44 @@
+Unit Testing for Solana Smart Contracts
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to familiarize students with writing unit tests for Solana smart contracts. By creating a suite of unit tests, students will learn how to ensure the functionality and correctness of their smart contracts.
+
+Instructions for Students:
+
+Assignment Task:
+
+Creating Unit Tests for a Solana Smart Contract
+
+In this assignment, you will be responsible for writing unit tests for a given Solana smart contract. The goal is to thoroughly test various functions within the contract, including edge cases and boundary conditions, to ensure that the contract behaves as expected.
+
+Assignment Requirements:
+
+Unit Test Suite (60 points):
+
+You will be provided with a Solana smart contract.
+Your task is to create a comprehensive suite of unit tests using a testing framework like solana-test or equivalent.
+Write test cases that cover different aspects of the contract's functionality, including various function calls, inputs, and potential edge cases.
+Ensure that you test the contract's behavior when invoked with valid inputs and when it encounters invalid inputs.
+Test Report (20 points):
+
+Execute your unit tests and record the test results.
+Create a detailed test report that includes the following:
+A summary of the tests conducted.
+A description of each test case, including inputs and expected outcomes.
+The actual outcomes of each test.
+Any issues or failures encountered during testing.
+Coverage Analysis (20 points):
+
+Analyze the code coverage of your unit tests to ensure you have adequately tested the contract's functionality.
+Identify any parts of the code that are not covered by your tests and explain why they might not be testable.
+Submission Guidelines:
+
+Submit the unit test code.
+Submit the test report with detailed descriptions of the tests and their outcomes.
+Include the coverage analysis report.
+Grading Rubric:
+
+Completeness and Quality of Unit Tests (60 points)
+Quality of Test Report (20 points)
+Coverage Analysis (20 points)

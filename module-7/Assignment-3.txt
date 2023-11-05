@@ -1,0 +1,43 @@
+Blockchain Technology Research
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to engage in continuous learning and research in the field of blockchain technology. Students will explore a specific aspect of blockchain technology, such as consensus algorithms, security, scalability, or use cases. By conducting research and summarizing their findings, students will deepen their understanding of blockchain concepts and discover how these concepts relate to Solana development.
+
+Instructions for Students:
+
+Assignment Task:
+
+Blockchain Technology Research
+
+In this assignment, you will conduct research on a specific aspect of blockchain technology. The blockchain ecosystem is constantly evolving, and understanding various blockchain concepts is crucial for Solana developers. By conducting research, you will gain insights into the broader blockchain landscape and discover how these insights can be applied to Solana-based projects.
+
+Assignment Requirements:
+
+Topic Selection (5 points):
+
+Choose a specific aspect of blockchain technology that interests you. Examples include consensus algorithms, blockchain security, scalability solutions, or real-world blockchain use cases.
+Research and Analysis (70 points):
+
+Conduct in-depth research on your chosen topic by reading articles, whitepapers, research papers, or books. Use reputable sources and ensure that the information is up-to-date.
+Summarize the key findings and insights from your research.
+Analyze how the concepts related to your chosen topic are relevant to Solana and blockchain development in general.
+Highlight any potential advantages, challenges, or implications for Solana-based projects.
+Impact on Solana Development (15 points):
+
+Discuss how the knowledge gained from your research can be applied to Solana development.
+Consider how your findings could influence design decisions, optimization strategies, or the development of decentralized applications (dApps) on Solana.
+Presentation (10 points):
+
+Create a presentation or document summarizing your research findings and analysis.
+Ensure that your presentation is well-structured and effectively communicates the key insights.
+Submission Guidelines:
+
+Submit your research presentation or document as instructed by the course instructor.
+Cite your sources appropriately to give credit to the authors of the materials you referenced.
+Grading Rubric:
+
+Topic Selection (5 points)
+Research and Analysis (70 points)
+Impact on Solana Development (15 points)
+Presentation (10 points)

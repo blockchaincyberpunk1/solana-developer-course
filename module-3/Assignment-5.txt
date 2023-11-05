@@ -1,0 +1,44 @@
+Enhancing Your Solana dApp
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to encourage students to extend the functionality and usability of the decentralized application (dApp) they built in the previous assignment. Students will have the opportunity to add new features, improve the user interface, and further develop their dApps to make them more comprehensive and engaging.
+
+Instructions for Students:
+
+Assignment Task:
+
+Enhancing Your Solana dApp
+
+In this assignment, you will build upon the decentralized application (dApp) you created in the previous assignment. You will extend its functionality and improve its user interface to provide an even better user experience. Consider adding new features or enhancing existing ones to make your dApp more comprehensive and engaging.
+
+Assignment Requirements:
+
+Feature Enhancement (40 points):
+
+Add new features to your dApp that provide additional value to users.
+You can consider features like user authentication, interactive forms, data visualization, or any other functionality that enhances your dApp's utility.
+User Interface Improvement (30 points):
+
+Enhance the visual design and user interface of your dApp to make it more appealing and user-friendly.
+Implement responsive design principles to ensure your dApp works well on various devices and screen sizes.
+Solana Integration (20 points):
+
+Ensure that any new features or enhancements are effectively integrated with the Solana blockchain using Solana JavaScript libraries (e.g., Solana Web3.js).
+Continue to maintain a high level of interaction and transaction quality with the Solana network.
+Code Quality and Documentation (10 points):
+
+Update your codebase to reflect the new features and improvements.
+Provide clear documentation explaining the new features, how they work, and how users can benefit from them.
+Ensure your code remains well-organized and thoroughly documented.
+Submission Guidelines:
+
+Submit the updated code for your enhanced dApp, including all necessary files.
+Provide a detailed explanation of the enhancements you've made, including any new features and user interface improvements.
+Update any necessary documentation or comments to reflect the changes in your dApp.
+Grading Rubric:
+
+Feature Enhancement (40 points)
+User Interface Improvement (30 points)
+Solana Integration (20 points)
+Code Quality and Documentation (10 points)

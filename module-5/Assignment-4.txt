@@ -1,0 +1,44 @@
+Integration Testing for Solana dApps
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to emphasize the importance of integration testing in decentralized applications (dApps). By creating integration tests, students will learn how to ensure that their dApps interact correctly with external components, such as APIs and smart contracts.
+
+Instructions for Students:
+
+Assignment Task:
+
+Developing Integration Tests for a Solana dApp
+
+In this assignment, you will be responsible for developing integration tests for a given Solana decentralized application (dApp). The goal is to verify that the dApp interacts correctly with external components, such as APIs or smart contracts, to ensure its functionality and reliability.
+
+Assignment Requirements:
+
+Integration Test Suite (60 points):
+
+You will be provided with a Solana dApp codebase that interacts with external components.
+Your task is to create a comprehensive suite of integration tests using a testing framework suitable for Solana dApps.
+Write test cases that cover various interactions between the dApp and external components, including positive and negative scenarios.
+Ensure that you test the dApp's behavior when external components respond as expected and when they encounter errors or unexpected responses.
+Test Report (20 points):
+
+Execute your integration tests against the dApp and record the test results.
+Create a detailed test report that includes the following:
+A summary of the integration tests conducted.
+A description of each test case, including the specific interactions being tested.
+The actual outcomes of each test, including whether the interactions succeeded or failed.
+Any issues or failures encountered during testing.
+Coverage Analysis (20 points):
+
+Analyze the code coverage of your integration tests to ensure you have adequately tested the interactions between the dApp and external components.
+Identify any parts of the code or interactions that are not covered by your tests and explain why they might not be testable.
+Submission Guidelines:
+
+Submit the integration test code.
+Submit the test report with detailed descriptions of the tests and their outcomes.
+Include the coverage analysis report.
+Grading Rubric:
+
+Completeness and Quality of Integration Tests (60 points)
+Quality of Test Report (20 points)
+Coverage Analysis (20 points)

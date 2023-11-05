@@ -1,0 +1,43 @@
+Optimizing Solana Smart Contracts
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students how to optimize Solana smart contracts for efficiency and cost-effectiveness. By reviewing and optimizing a provided smart contract, students will learn strategies for reducing gas fees and improving transaction efficiency on the Solana blockchain.
+
+Instructions for Students:
+
+Assignment Task:
+
+Optimizing Solana Smart Contracts
+
+In this assignment, you will work on optimizing a Solana smart contract to make it more efficient and cost-effective. As a Solana developer, it's crucial to understand how to reduce gas fees and improve the overall performance of your contracts.
+
+Assignment Requirements:
+
+Review the Provided Smart Contract (20 points):
+
+You will be provided with a Solana smart contract that performs basic operations.
+Carefully review the provided smart contract code and understand its functionality.
+Optimize the Smart Contract (40 points):
+
+Identify areas in the contract code where optimizations can be made to reduce gas fees and improve efficiency.
+Make necessary changes to the code to implement these optimizations. You may need to refactor code, adjust data structures, or use Solana-specific best practices.
+Documentation (30 points):
+
+Create a document that explains the optimizations you made to the smart contract.
+Describe the specific changes you implemented and the reasoning behind each optimization.
+Discuss how these optimizations impact gas costs, transaction speed, and overall contract efficiency.
+Testing and Verification (10 points):
+
+Test the optimized smart contract to ensure it functions correctly and efficiently.
+Verify that the gas fees have been reduced, and the contract performs its intended functions.
+Submission Guidelines:
+
+Submit the optimized smart contract code.
+Submit the documentation in a format that is easily accessible and viewable.
+Grading Rubric:
+
+Review of the Provided Smart Contract (20 points)
+Optimization of the Smart Contract (40 points)
+Documentation (30 points)
+Testing and Verification (10 points)

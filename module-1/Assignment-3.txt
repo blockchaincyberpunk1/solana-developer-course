@@ -1,0 +1,48 @@
+Development Environment Setup
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to ensure that students have a functional development environment for Solana. Students will be provided with detailed instructions on setting up their environment, including installing the Solana Command Line Interface (CLI), Node.js, and a code editor. The assignment will require students to follow the provided instructions, verify their setup, and submit evidence of their working development environment.
+
+Instructions for Students:
+
+Assignment Task:
+
+Development Environment Setup:
+To develop Solana applications effectively, you need a well-configured development environment. This assignment will guide you through the setup process.
+
+Assignment Requirements:
+
+Solana CLI Installation (30 points):
+
+Follow the provided instructions to install the Solana Command Line Interface (CLI) on your local machine.
+Ensure that you can run basic Solana CLI commands, such as creating a new wallet and checking your balance.
+Node.js Installation (20 points):
+
+Install Node.js on your machine by following the instructions provided.
+Verify the installation by running the node -v and npm -v commands to display the installed Node.js and npm versions.
+Code Editor Setup (20 points):
+
+Choose a code editor of your preference (e.g., Visual Studio Code, Sublime Text, or any other).
+Install any necessary extensions or plugins for Solana development.
+Environment Verification (30 points):
+
+Use the Solana CLI to create a new Solana wallet.
+Write a simple Solana program (e.g., a Solana "Hello World" program).
+Compile and deploy the program using the Solana CLI.
+Verify that the program works as expected.
+Submission of Evidence (10 points):
+
+Take a screenshot or provide confirmation of your functional development environment.
+Include a brief description of the steps you followed to set up your environment.
+Submission Guidelines:
+
+Students should submit a screenshot or confirmation that demonstrates their working Solana development environment.
+Include a brief description of any challenges faced during setup and how they were resolved.
+Grading Rubric:
+
+Solana CLI Installation (30 points)
+Node.js Installation (20 points)
+Code Editor Setup (20 points)
+Environment Verification (30 points)
+Submission of Evidence (10 points)

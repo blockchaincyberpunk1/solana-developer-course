@@ -1,0 +1,49 @@
+Solana Hackathon Participation
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to apply the Solana development skills acquired during the course to a real-world coding challenge. Students will participate in a Solana hackathon, where they will form teams or participate individually, choose a challenge, and develop a Solana-based project that aligns with their interests and skill level. By completing this assignment, students will gain hands-on experience in building Solana projects and solving real-world problems in the blockchain space.
+
+Instructions for Students:
+
+Assignment Task:
+
+Participating in a Solana Hackathon
+
+In this assignment, you will participate in a Solana hackathon or coding challenge. Solana hackathons provide an excellent opportunity to apply your Solana development skills in a competitive and real-world environment. You will have the chance to work on projects that address specific challenges and showcase your creativity and problem-solving abilities.
+
+Assignment Requirements:
+
+Hackathon Registration (5 points):
+
+Research and find an ongoing Solana hackathon or coding challenge. You can explore platforms like Devpost, Gitcoin, or the official Solana website for announcements.
+Register for the hackathon individually or form a team if allowed. Ensure that your chosen challenge aligns with your interests and skill level.
+Project Development (70 points):
+
+Review the hackathon guidelines and challenge requirements carefully.
+Develop a Solana-based project that addresses the challenge you've chosen. Your project can be a decentralized application (dApp), a smart contract, or any other Solana-based solution.
+Ensure that your project is functional and demonstrates your Solana development skills.
+Collaborate with your team members effectively if you're working in a team.
+Project Submission (15 points):
+
+Submit your project code to the hackathon platform within the specified deadline.
+Include a README file in your project repository that provides clear instructions on how to run and test your project.
+Project Report (10 points):
+
+Write a project report (document or presentation) that includes:
+A brief description of the problem you addressed in the hackathon.
+An overview of your project's functionality and features.
+Details on how your project leverages Solana's capabilities.
+Challenges you encountered during development and how you overcame them.
+Any unique or innovative aspects of your project.
+Future improvements or features you plan to implement (if applicable).
+Submission Guidelines:
+
+Submit your project code on the hackathon platform as instructed.
+Submit your project report as a separate document (e.g., PDF) alongside your code.
+Grading Rubric:
+
+Hackathon Registration (5 points)
+Project Development (70 points)
+Project Submission (15 points)
+Project Report (10 points)

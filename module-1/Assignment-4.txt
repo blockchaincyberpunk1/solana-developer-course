@@ -1,0 +1,41 @@
+Solana Smart Contract Basics
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to Solana smart contract development. Students will be tasked with creating a simple Solana smart contract using a template or example provided in the Solana documentation. The smart contract should perform a basic function, such as transferring tokens between accounts. Students will need to write the code, deploy the smart contract on a local network, and provide a brief explanation of how it works.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana Smart Contract Basics:
+In this assignment, you will dive into Solana smart contract development by creating a basic smart contract. The goal is to familiarize yourself with the essential components and concepts of Solana smart contracts.
+
+Assignment Requirements:
+
+Smart Contract Creation (40 points):
+
+Use the Solana documentation or provided examples to create a simple Solana smart contract.
+The smart contract should perform a basic function, such as transferring tokens between accounts.
+Ensure that your code is well-documented and follows best practices.
+Local Deployment (30 points):
+
+Deploy your smart contract on a local Solana network (e.g., using a local cluster).
+Test your smart contract's functionality on the local network to ensure it works as expected.
+Explanation (20 points):
+
+Write a brief explanation of how your smart contract works, including its purpose and the logic behind it.
+Include any relevant code snippets or explanations of key functions.
+Submission (10 points):
+
+Submit your smart contract code along with your explanation.
+Submission Guidelines:
+
+Students should submit their smart contract code along with a brief explanation of how it works.
+The explanation should be clear and concise, helping the instructor and peers understand the purpose and functionality of the smart contract.
+Grading Rubric:
+
+Smart Contract Creation (40 points)
+Local Deployment (30 points)
+Explanation (20 points)
+Submission (10 points)

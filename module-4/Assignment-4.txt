@@ -1,0 +1,45 @@
+Solana Gas Fee Analysis
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students about the concept of gas fees in Solana and how to optimize transactions to reduce gas costs. By analyzing Solana transactions, students will learn strategies for improving the cost-effectiveness of their decentralized applications (dApps).
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana Gas Fee Analysis
+
+In this assignment, you will work on analyzing Solana transactions and proposing strategies to reduce gas fees. Understanding gas fees and optimizing transactions is crucial for building cost-effective decentralized applications (dApps) on the Solana blockchain.
+
+Assignment Requirements:
+
+Analyze Provided Solana Transactions (20 points):
+
+You will be provided with a set of Solana transactions that perform various operations.
+Carefully analyze the provided transactions and calculate the associated gas fees.
+Propose Gas-Saving Strategies (40 points):
+
+Based on your analysis, propose and implement strategies to reduce gas costs for the provided transactions.
+Possible strategies may include:
+Optimizing the size of transactions.
+Reducing the frequency of transactions.
+Combining multiple operations into a single transaction.
+Optimize the Transactions (20 points):
+
+Implement the proposed gas-saving strategies by optimizing the provided transactions.
+Documentation (20 points):
+
+Create a document that explains the gas-saving strategies you applied to the transactions.
+Describe the specific changes made to each transaction and the reasoning behind each optimization.
+Discuss how these optimizations impact the gas fees associated with each transaction.
+Submission Guidelines:
+
+Submit the optimized transaction code.
+Submit the documentation in a format that is easily accessible and viewable.
+Grading Rubric:
+
+Analysis of Provided Transactions (20 points)
+Propose Gas-Saving Strategies (40 points)
+Optimization of the Transactions (20 points)
+Documentation (20 points)

@@ -1,0 +1,45 @@
+Solana Architecture Overview
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with an in-depth understanding of Solana's architecture. Students will study Solana's unique features, including the Solana Runtime, Proof of History (PoH), and scalability solutions. They will then create a presentation or document summarizing the key architectural components and advantages of Solana compared to other blockchain platforms.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana Architecture Overview:
+Solana is known for its innovative architecture that enables high-speed, secure, and scalable blockchain applications. This assignment will require you to delve into the architectural aspects of Solana and highlight its unique features and advantages.
+
+Assignment Requirements:
+
+Solana Architecture Components (40 points):
+
+Research and describe the key architectural components of the Solana blockchain. This should include components such as the Solana Runtime, Replicators, Clusters, Validators, and the unique data structure known as Proof of History (PoH).
+Explain how these components interact and contribute to Solana's overall architecture.
+Proof of History (PoH) (20 points):
+
+Explore Solana's Proof of History (PoH) mechanism. Explain what PoH is and why it is a crucial innovation in Solana's architecture.
+Describe how PoH enhances the security and scalability of Solana's blockchain.
+Scalability Solutions (20 points):
+
+Investigate Solana's scalability solutions, including the use of a high-performance consensus mechanism and the role of sharding.
+Discuss how these solutions enable Solana to handle a high number of transactions per second (TPS) and maintain low transaction fees.
+Advantages Over Other Blockchains (20 points):
+
+Compare Solana's architecture and features to those of other blockchain platforms (e.g., Ethereum, Bitcoin).
+Highlight the advantages of Solana in terms of speed, scalability, and developer-friendliness.
+Presentation or Document (20 points):
+
+Create a presentation or document summarizing your findings. Use visuals, diagrams, and concise explanations to make the content engaging and informative.
+Ensure that your presentation or document is well-organized and easy to follow.
+Submission Guidelines:
+
+Students should submit a presentation (e.g., PowerPoint) or a document (e.g., PDF) that covers each of the assignment requirements.
+Grading Rubric:
+
+Solana Architecture Components (40 points)
+Proof of History (PoH) (20 points)
+Scalability Solutions (20 points)
+Advantages Over Other Blockchains (20 points)
+Presentation or Document (20 points)

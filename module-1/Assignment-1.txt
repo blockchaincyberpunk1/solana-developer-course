@@ -1,0 +1,45 @@
+Blockchain Research Report
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with a solid understanding of the fundamentals of blockchain technology. Students will research and compile a comprehensive report on blockchain history, key components, and use cases, while also exploring its potential impact on various industries.
+
+Instructions for Students:
+
+Assignment Task:
+
+Blockchain Research Report Overview:
+Blockchain technology is a foundational concept in the world of decentralized finance and applications. This assignment will serve as a comprehensive introduction to the fundamentals of blockchain technology. You will research and compile a report that covers the history of blockchain, its key components, and various use cases, all while considering its potential impact on different industries.
+
+Assignment Requirements:
+
+Blockchain History (20 points):
+
+Research and present the historical development of blockchain technology. Explore the events and innovations that led to its creation.
+Provide a brief overview of the key figures or organizations that played pivotal roles in the early days of blockchain.
+Key Components (30 points):
+
+Describe the essential components of a blockchain, including blocks, transactions, and consensus mechanisms.
+Explain how these components work together to ensure the security and integrity of blockchain networks.
+Blockchain Use Cases (30 points):
+
+Investigate various use cases of blockchain technology across different industries. Examples can include but are not limited to finance, supply chain, healthcare, and voting systems.
+Provide real-world examples of blockchain implementations and their outcomes.
+Potential Impact (20 points):
+
+Discuss the potential impact of blockchain technology on industries, economies, and society as a whole.
+Analyze how blockchain can address existing challenges or inefficiencies in traditional systems.
+Presentation (10 points):
+
+Organize your report coherently, with clear headings and subheadings.
+Ensure proper citations and references for all sources used in your research.
+Submission Guidelines:
+
+Students should submit a well-structured report that addresses each of the assignment requirements.
+Grading Rubric:
+
+Blockchain History (20 points)
+Key Components (30 points)
+Blockchain Use Cases (30 points)
+Potential Impact (20 points)
+Presentation (10 points)

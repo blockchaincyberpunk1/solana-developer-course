@@ -1,0 +1,40 @@
+Smart Contract Interactions
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to give students hands-on experience in creating a client application that interacts with a Solana smart contract they have previously developed. Students will demonstrate their ability to perform actions on the smart contract, such as transferring tokens or invoking specific functions. They will provide the client code along with a brief description of its functionality.
+
+Instructions for Students:
+
+Assignment Task:
+
+Smart Contract Interactions
+
+In this assignment, you will build a client application that interacts with the Solana smart contract you developed in the previous assignment. This client application will allow users to perform actions on the smart contract, such as transferring tokens or invoking specific functions.
+
+Assignment Requirements:
+
+Client Application (70 points):
+
+Develop a client application that can interact with your Solana smart contract.
+The client application should have the ability to perform at least one key action with the smart contract. For example, it could be a token transfer function or any other function you implemented in your smart contract.
+Ensure that your client application is well-structured and follows best practices for Solana client development.
+Documentation (20 points):
+
+Provide clear and comprehensive documentation explaining how your client application interacts with the Solana smart contract.
+Describe the purpose of the client application, its key functions, and how it communicates with the smart contract.
+Include any important details about the client application's user interface (if applicable) and the steps required to interact with the smart contract.
+Testing and Demonstration (10 points):
+
+Test your client application to ensure it correctly interacts with your smart contract.
+Prepare a brief demonstration (e.g., a video or screenshots) showing how the client application interacts with the smart contract. This should include performing the specified actions.
+Submission Guidelines:
+
+Submit your client application code as a single code file or package.
+Include documentation in a separate text file or document (PDF, Markdown) along with your code.
+Mention any external libraries or dependencies used in your client application.
+Grading Rubric:
+
+Client Application (70 points)
+Documentation (20 points)
+Testing and Demonstration (10 points)

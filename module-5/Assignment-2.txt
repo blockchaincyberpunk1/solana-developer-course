@@ -1,0 +1,40 @@
+Solana Smart Contract Auditing
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to provide students with hands-on experience in auditing and securing smart contracts. By identifying vulnerabilities and proposing fixes in a vulnerable smart contract, students will learn essential skills for ensuring the security of blockchain applications on the Solana platform.
+
+Instructions for Students:
+
+Assignment Task:
+
+Auditing and Securing a Solana Smart Contract
+
+In this assignment, you will have the opportunity to audit a Solana smart contract for security vulnerabilities. We will provide you with a smart contract code that contains vulnerabilities commonly found in blockchain applications. Your task is to perform a code audit, identify these vulnerabilities, and propose fixes to make the contract secure.
+
+Assignment Requirements:
+
+Code Audit (40 points):
+
+We will provide you with a Solana smart contract code that contains security vulnerabilities.
+Your task is to perform a thorough audit of the provided code to identify vulnerabilities. Common vulnerabilities may include reentrancy issues, input validation problems, or insecure state changes.
+Document each vulnerability you find, including its nature, potential impact, and the lines of code where it exists.
+Vulnerability Remediation (40 points):
+
+After identifying vulnerabilities, propose and implement fixes to address each one.
+Provide a clear explanation of the remediation steps you took for each vulnerability.
+Ensure that your code modifications effectively mitigate the identified vulnerabilities.
+Report (20 points):
+
+Submit a report summarizing your audit findings and remediation efforts.
+Include a section detailing each identified vulnerability, the associated risks, and the fixes you implemented.
+Provide explanations and reasoning for your proposed fixes.
+Submission Guidelines:
+
+Submit the audited smart contract code with your proposed fixes.
+Submit the audit report outlining your findings and remediation steps.
+Grading Rubric:
+
+Code Audit (40 points)
+Vulnerability Remediation (40 points)
+Quality of Audit Report (20 points)

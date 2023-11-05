@@ -1,0 +1,40 @@
+ dApp Fundamentals
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to ensure students have a solid understanding of decentralized applications (dApps), their architecture, components, and their relevance in the blockchain ecosystem. This assignment lays the foundation for more advanced dApp development tasks later in the course.
+
+Instructions for Students:
+
+Assignment Task:
+
+dApp Fundamentals
+
+In this introductory assignment, you will delve into the basics of decentralized applications (dApps) to build a strong foundation for your Solana developer journey. dApps have become a prominent part of the blockchain landscape, and understanding their fundamentals is crucial.
+
+Assignment Requirements:
+
+Research and Explanation (70 points):
+
+Research and provide a comprehensive explanation of what decentralized applications (dApps) are.
+Explain the key components of a typical dApp, including but not limited to smart contracts, front-end interfaces, and back-end infrastructure.
+Describe the role of blockchain technology in supporting and enabling dApps.
+Provide real-world examples of popular dApps (you can choose from various blockchain platforms, not limited to Solana).
+Architecture Overview (20 points):
+
+Outline the architecture of a typical dApp, including the flow of data and interactions between its components.
+Explain the importance of decentralization, transparency, and immutability in dApp architecture.
+Relevance and Significance (10 points):
+
+Discuss the significance of dApps in the context of blockchain technology.
+Explain how dApps have the potential to disrupt various industries and traditional systems.
+Submission Guidelines:
+
+Prepare a document (PDF, Word, or Google Docs) or a presentation (PowerPoint, Google Slides) that includes your research findings and explanations.
+Include citations and references for any external sources used.
+Ensure clarity and coherence in your explanations.
+Grading Rubric:
+
+Research and Explanation (70 points)
+Architecture Overview (20 points)
+Relevance and Significance (10 points)

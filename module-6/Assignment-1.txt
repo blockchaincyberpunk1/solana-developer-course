@@ -1,0 +1,58 @@
+Full-Stack Solana dApp Development
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to give students hands-on experience in building a complete decentralized application (dApp) that integrates Solana smart contracts with a user-friendly React.js front-end. This assignment encourages students to apply their knowledge to create a functional dApp with real-world use cases.
+
+Instructions for Students:
+
+Assignment Task:
+
+Full-Stack dApp Development
+
+In this assignment, you will have the opportunity to build a full-stack decentralized application (dApp) on the Solana blockchain. Your task is to choose a real-world use case for your dApp, design and develop Solana smart contracts to handle the blockchain interactions, and create a user-friendly front-end using React.js to enable users to interact with your dApp.
+
+Assignment Requirements:
+
+Use Case Selection (10 points):
+
+Choose a real-world use case for your dApp. It could be related to finance, gaming, NFTs, or any other domain you find interesting.
+Smart Contract Development (30 points):
+
+Design and develop Solana smart contracts that implement the core functionality of your dApp.
+Include appropriate error handling and security measures in your smart contracts.
+Front-End Development (30 points):
+
+Create a user-friendly front-end interface for your dApp using React.js.
+Ensure that the front-end allows users to interact with the Solana blockchain through your smart contracts.
+Blockchain Interaction (20 points):
+
+Implement the necessary code to enable interactions between your React front-end and Solana smart contracts.
+Ensure that users can perform meaningful actions on the blockchain through your dApp.
+User Guide (10 points):
+
+Prepare a user guide or documentation that explains how to use your dApp.
+Include clear instructions and examples to help users understand its functionality.
+Project Report (20 points):
+
+Create a comprehensive project report that covers the following:
+Introduction: Describe your dApp and its use case.
+Design Decisions: Explain the design choices you made for both smart contracts and the front-end.
+Technical Details: Provide technical details about the smart contracts, including any libraries or tools used.
+User Guide: Include the user guide you prepared.
+Challenges Faced: Discuss any challenges you encountered during development and how you addressed them.
+Conclusion: Summarize your project's goals and outcomes.
+Submission Guidelines:
+
+Submit your smart contract code.
+Submit your React.js front-end code.
+Include the user guide or documentation.
+Submit the comprehensive project report.
+Grading Rubric:
+
+Use Case Selection (10 points)
+Smart Contract Development (30 points)
+Front-End Development (30 points)
+Blockchain Interaction (20 points)
+User Guide (10 points)
+Project Report (20 points)

@@ -1,0 +1,43 @@
+Front-End Development with React
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to introduce students to front-end development using React.js, a popular JavaScript library for building user interfaces. React.js is a valuable skill for creating the user interfaces of decentralized applications (dApps) on Solana.
+
+Instructions for Students:
+
+Assignment Task:
+
+Front-End Development with React
+
+In this assignment, you will dive into the world of front-end development using React.js. React is widely used for building user interfaces in web applications, including decentralized applications (dApps). By mastering React, you'll be well-equipped to create intuitive and responsive user interfaces for your Solana-based dApps.
+
+Assignment Requirements:
+
+React Basics (40 points):
+
+Create a simple React-based web application unrelated to blockchain. It could be a to-do list, a weather app, or any other project of your choice.
+Implement at least two React components with appropriate props and state.
+Demonstrate your understanding of React's component lifecycle methods (e.g., componentDidMount, componentDidUpdate).
+State Management (30 points):
+
+Utilize React's state management to add dynamic behavior to your application. For example, you could create a component that allows users to add and remove items.
+Show how your application's state changes based on user interactions.
+Routing (20 points):
+
+Implement client-side routing using React Router or a similar library.
+Create multiple pages or views within your application, and ensure that users can navigate between them seamlessly.
+Code Quality and Explanation (10 points):
+
+Write clean and well-organized code following best practices for React development.
+Include comments or explanations where necessary to clarify how your code works.
+Submission Guidelines:
+
+Submit your React code along with any related files.
+Include a brief explanation (in a document or as comments within your code) that provides an overview of your web application and explains how the different components and state management work.
+Grading Rubric:
+
+React Basics (40 points)
+State Management (30 points)
+Routing (20 points)
+Code Quality and Explanation (10 points)

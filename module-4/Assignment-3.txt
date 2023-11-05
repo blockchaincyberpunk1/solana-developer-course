@@ -1,0 +1,47 @@
+Solana dApp Performance Optimization
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to teach students how to optimize the performance of Solana decentralized applications (dApps). By analyzing a sample Solana dApp, students will learn strategies for identifying and addressing performance bottlenecks to enhance the user experience.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solana dApp Performance Optimization
+
+In this assignment, you will work on optimizing the performance of a Solana decentralized application (dApp). As a Solana developer, it's crucial to ensure that your dApps provide a smooth user experience with minimal latency.
+
+Assignment Requirements:
+
+Analyze the Sample Solana dApp (20 points):
+
+You will be provided with a sample Solana dApp that performs various functions.
+Carefully analyze the provided dApp code and identify areas where performance bottlenecks exist.
+Optimize the dApp (40 points):
+
+Propose and implement optimizations to reduce latency and enhance the user experience.
+Possible optimizations may include:
+Optimizing data retrieval from Solana's blockchain.
+Implementing caching mechanisms to reduce redundant data fetching.
+Parallelizing transactions to improve concurrency.
+Identifying and addressing any inefficient loops or operations.
+Documentation (30 points):
+
+Create a document that explains the optimizations you made to the dApp.
+Describe the specific changes you implemented and the reasoning behind each optimization.
+Discuss how these optimizations impact the dApp's performance, including latency reduction and improved user experience.
+Testing and Verification (10 points):
+
+Test the optimized dApp to ensure that it functions correctly and exhibits improved performance.
+Measure and compare the latency and responsiveness before and after optimizations.
+Submission Guidelines:
+
+Submit the optimized dApp code.
+Submit the documentation in a format that is easily accessible and viewable.
+Grading Rubric:
+
+Analysis of the Sample Solana dApp (20 points)
+Optimization of the dApp (40 points)
+Documentation (30 points)
+Testing and Verification (10 points)

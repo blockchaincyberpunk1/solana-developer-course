@@ -1,0 +1,49 @@
+Security Testing and Bug Bounty Simulation
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to simulate a bug bounty program where students act as both attackers and defenders. They will identify security vulnerabilities in provided smart contracts or decentralized applications (dApps) and simulate attacks to test the security of blockchain applications.
+
+Instructions for Students:
+
+Assignment Task:
+
+Simulating a Bug Bounty Program
+
+In this assignment, you will participate in a bug bounty simulation where you will act as both an attacker and a defender. The goal is to identify security vulnerabilities in provided Solana smart contracts or dApps, create tests or exploit scenarios to simulate attacks, and evaluate the security of blockchain applications.
+
+Assignment Requirements:
+
+Vulnerability Discovery (40 points):
+
+You will be provided with Solana smart contracts or dApps.
+Act as a security researcher to identify potential security vulnerabilities in the provided code.
+Document the vulnerabilities you discover, including their nature and potential impact.
+Exploit Simulation (30 points):
+
+After identifying vulnerabilities, simulate attacks on the provided smart contracts or dApps.
+Attempt to exploit the vulnerabilities you discovered to demonstrate their potential impact.
+Document your exploit scenarios, including the steps you took to exploit the vulnerabilities.
+Defensive Testing (20 points):
+
+Switch roles to become a defender.
+Propose and implement security measures to mitigate the vulnerabilities you discovered.
+Document the defensive strategies you applied to improve the security of the smart contracts or dApps.
+Final Report (30 points):
+
+Create a comprehensive report summarizing your findings and actions.
+Include details of the vulnerabilities discovered, exploit scenarios attempted, and the defensive measures applied.
+Provide recommendations for improving the security of the smart contracts or dApps.
+Reflect on the importance of responsible disclosure and ethical hacking in blockchain security.
+Submission Guidelines:
+
+Submit the vulnerability discovery documentation.
+Submit the exploit simulation documentation.
+Submit the defensive testing documentation.
+Submit the final comprehensive report.
+Grading Rubric:
+
+Quality of Vulnerability Discovery (40 points)
+Effectiveness of Exploit Simulation (30 points)
+Quality of Defensive Testing (20 points)
+Quality of Final Report (30 points)

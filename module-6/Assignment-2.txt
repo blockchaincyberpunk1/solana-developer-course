@@ -1,0 +1,50 @@
+Git and Version Control
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to familiarize students with Git, a powerful version control system widely used in software development. In addition, it teaches them how to collaborate on coding projects using Git and GitHub, an essential skill for teamwork in the software development industry.
+
+Instructions for Students:
+
+Assignment Task:
+
+Git and Version Control Collaboration
+
+In this assignment, you will engage in a collaborative coding project hosted on a Git repository. Your task is to work in a team, each student forking the repository, making code contributions, creating pull requests for review, and managing issues and merge requests. This assignment aims to provide hands-on experience with Git, version control, and collaborative coding practices.
+
+Assignment Requirements:
+
+Fork the Repository (10 points):
+
+Fork the provided Git repository to your GitHub account.
+Code Contributions (30 points):
+
+Each student must make meaningful code contributions to the project. These contributions should address specific tasks or issues related to the project's goals.
+Ensure that your code follows best practices and is well-documented.
+Pull Requests (20 points):
+
+For each code contribution, create a pull request (PR) to the original repository.
+Include a clear description of the changes made and reference any relevant issues.
+Issue Management (20 points):
+
+Participate in issue tracking by creating, commenting on, or closing issues as needed.
+Collaborate with your peers to address issues effectively.
+Merge Requests (10 points):
+
+Collaborate with team members by reviewing their pull requests and providing constructive feedback.
+Merge pull requests into the original repository after review and approval.
+Reflection (10 points):
+
+Write a reflection on your collaboration experience. Discuss the challenges you faced, how you resolved them, what you learned about Git and collaboration, and how this experience relates to your future career.
+Submission Guidelines:
+
+Submit the links to your forked repository and your contributions (pull requests).
+Include the reflection document as part of your submission.
+Grading Rubric:
+
+Fork the Repository (10 points)
+Code Contributions (30 points)
+Pull Requests (20 points)
+Issue Management (20 points)
+Merge Requests (10 points)
+Reflection (10 points)

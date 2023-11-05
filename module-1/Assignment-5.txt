@@ -1,0 +1,45 @@
+Blockchain Comparison
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to deepen students' understanding of Solana by comparing it with other blockchain platforms. Students will be tasked with researching and writing a comparative analysis between Solana and one or more other blockchain platforms, such as Ethereum or Binance Smart Chain. They should focus on aspects such as scalability, transaction speed, consensus mechanisms, and developer-friendliness. Students will present their findings in a report or presentation.
+
+Instructions for Students:
+
+Assignment Task:
+
+Blockchain Comparison: Solana vs. Other Blockchain Platforms
+In this assignment, you will research and provide a comparative analysis of Solana in comparison to one or more other blockchain platforms of your choice. The goal is to understand how Solana stands out in terms of scalability, transaction speed, consensus mechanisms, and developer-friendliness when compared to other blockchain networks.
+
+Assignment Requirements:
+
+Platform Selection (10 points):
+
+Choose one or more blockchain platforms to compare with Solana. Popular choices include Ethereum, Binance Smart Chain, or any other relevant platform.
+Research (40 points):
+
+Thoroughly research and gather information about Solana and the selected blockchain platforms.
+Focus on key aspects, including but not limited to:
+Scalability: How does each platform handle high throughput and scalability?
+Transaction Speed: Compare the transaction confirmation times on each platform.
+Consensus Mechanisms: Explain the consensus algorithms used by each platform.
+Developer-Friendliness: Evaluate the developer tools, documentation, and ease of building on each platform.
+Comparative Analysis (30 points):
+
+Write a detailed comparative analysis that highlights the strengths and weaknesses of Solana and the chosen blockchain platforms.
+Discuss how Solana excels or differs in terms of scalability, transaction speed, consensus mechanisms, and developer support.
+Use data, statistics, and examples to support your analysis.
+Presentation (20 points):
+
+Present your findings in either a written report or a presentation format.
+Ensure that your report or presentation is well-structured, easy to follow, and visually appealing if you choose the presentation format.
+Submission Guidelines:
+
+Students can choose to submit either a written report or a presentation.
+If submitting a presentation, it should be well-organized and visually engaging.
+Grading Rubric:
+
+Platform Selection (10 points)
+Research (40 points)
+Comparative Analysis (30 points)
+Presentation (20 points)

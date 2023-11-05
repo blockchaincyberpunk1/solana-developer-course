@@ -1,0 +1,48 @@
+Solidity vs. Rust Comparison
+
+Course: Solana Developer Course
+
+Assignment Objective: The objective of this assignment is to help students understand the differences between Solidity (used in Ethereum) and Rust (used in Solana) for smart contract development. Students will conduct research and create a comparative analysis that discusses language features, advantages, limitations, and use cases for each language. They should also provide code examples to illustrate the differences. The analysis can be presented in a report or presentation format.
+
+Instructions for Students:
+
+Assignment Task:
+
+Solidity vs. Rust Comparison for Smart Contract Development
+
+In this assignment, you will research and provide a comparative analysis between Solidity (used in Ethereum) and Rust (used in Solana) for smart contract development. The goal is to understand the language features, advantages, limitations, and use cases of each language in the context of blockchain and smart contract development.
+
+Assignment Requirements:
+
+Research (40 points):
+
+Conduct thorough research on Solidity and Rust, focusing on their use in blockchain and smart contract development.
+Explore and document the following aspects of both languages:
+Language Features: Describe the key features, syntax, and semantics of Solidity and Rust.
+Advantages: Identify and explain the advantages of using each language for smart contract development.
+Limitations: Discuss the limitations and potential challenges associated with both languages.
+Use Cases: Provide real-world use cases where each language is well-suited.
+Code Examples (30 points):
+
+Include code examples in your analysis to illustrate the differences between Solidity and Rust.
+Show how basic smart contract functionalities are implemented in both languages.
+Use comments to explain the code and highlight key differences.
+Comparative Analysis (20 points):
+
+Write a comparative analysis that summarizes the findings from your research and code examples.
+Compare and contrast Solidity and Rust in terms of their suitability for smart contract development.
+Discuss scenarios where one language might be preferred over the other.
+Presentation (10 points):
+
+Present your comparative analysis in either a written report or a presentation format.
+Ensure that your report or presentation is well-structured, easy to follow, and visually appealing if you choose the presentation format.
+Submission Guidelines:
+
+Students can choose to submit either a written report or a presentation.
+If submitting a presentation, it should be well-organized and visually engaging.
+Grading Rubric:
+
+Research (40 points)
+Code Examples (30 points)
+Comparative Analysis (20 points)
+Presentation (10 points)
